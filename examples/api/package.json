@@ -1,0 +1,11 @@
+{
+  "name": "api-examples",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "start": "node my-copy-paste-detector.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
